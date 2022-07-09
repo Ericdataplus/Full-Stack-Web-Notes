@@ -7,8 +7,12 @@
         "id": "fb375b343dca4953",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "heroicons.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "heroicons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "fb375b343dca4953",
   "lastOpenFiles": [
-    "Sidebar.md",
-    "Twitter Clone/twitter clone project.md",
-    "component.md",
-    "SidebarMenu.md",
+    "heroicons.md",
     "destructing.md",
-    "side.md",
-    "next.js.md",
-    "vs code shortcuts.md",
+    "daisy ui.md",
+    "component.md",
     "props.md",
-    "heroicons.md"
+    "Screenshot 2022-07-09 165255.png",
+    "next.js.md",
+    "bun.md",
+    "Twitter Clone/twitter clone project.md",
+    "Sidebar.md"
   ]
 }
