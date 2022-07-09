@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vs code shortcuts.md",
+            "file": "Twitter Clone/twitter clone project.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vs code shortcuts.md",
+                "file": "Twitter Clone/twitter clone project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "fb375b343dca4953",
   "lastOpenFiles": [
-    "vs code shortcuts.md",
-    "Sidebar.md",
-    "props.md",
-    "heroicons.md",
+    "Twitter Clone/twitter clone project.md",
+    "bun.md",
     "component.md",
     "daisy ui.md",
-    "next.js.md",
     "destructing.md",
-    "bun.md",
-    "Twitter Clone/twitter clone project.md"
+    "heroicons.md",
+    "next.js.md",
+    "vs code shortcuts.md",
+    "tailwind cheat sheets.md",
+    "tailwind.md"
   ]
 }
