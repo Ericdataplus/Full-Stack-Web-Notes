@@ -1,4 +1,4 @@
-with the sidebar we use subcomponents to help build it, [[SidebarMenu]] 
+with the sidebar we use subcomponents to help build it, [[SidebarMenu]], 
 
 using [[heroicons]] for the same icons that the acual website uses quickly and free
 
@@ -41,6 +41,7 @@ import {HomeIcon} from "@heroicons/react/solid";
 then manually change to this 
 
 ```jsx
+// import the corresponding packages
 import {BellIcon, HashtagIcon, BookmarkIcon, ClipboardIcon, DotsCircleHorizontalIcon, HomeIcon, InboxIcon} from "@heroicons/react/solid";
 
 <div className="">
