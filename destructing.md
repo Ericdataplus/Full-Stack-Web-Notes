@@ -1,0 +1,1 @@
+article on react destructing - https://medium.com/@lcriswell/destructuring-props-in-react-b1c295005ce0

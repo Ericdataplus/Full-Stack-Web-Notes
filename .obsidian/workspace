@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "0ed2958c14c578ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb375b343dca4953",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c94e8a51194df26",
+    "type": "split",
+    "children": [
+      {
+        "id": "732f255cc869d2ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb05823a5e7fbb58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4155000ec68ae85a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 176
+  },
+  "right": {
+    "id": "e32144c3095088cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "501d00f5aded28ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb22de31176f8332",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fb375b343dca4953",
+  "lastOpenFiles": [
+    "Sidebar.md",
+    "Twitter Clone/twitter clone project.md",
+    "component.md",
+    "SidebarMenu.md",
+    "destructing.md",
+    "side.md",
+    "next.js.md",
+    "vs code shortcuts.md",
+    "props.md",
+    "heroicons.md"
+  ]
+}
