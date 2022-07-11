@@ -14,7 +14,7 @@ import {HomeIcon} from "@heroicons/react/solid";
 
 Adding the icons as [[props]] to the [[SidebarMenu]] sub-component 
 
-the we use the [[vs code shortcuts]] alt+shift+up/down arrow key to duplicate easily
+then we use the [[vs code shortcuts]] alt+shift+up/down arrow key to duplicate easily
 
 ```jsx
 import {HomeIcon} from "@heroicons/react/solid";
@@ -42,7 +42,7 @@ then manually change to this
 
 ```jsx
 // import the corresponding packages
-import {BellIcon, HashtagIcon, BookmarkIcon, ClipboardIcon, DotsCircleHorizontalIcon, HomeIcon, InboxIcon} from "@heroicons/react/solid";
+import {HomeIcon, BellIcon, HashtagIcon, BookmarkIcon, ClipboardIcon, DotsCircleHorizontalIcon, InboxIcon} from "@heroicons/react/solid";
 
 <div className="">
 

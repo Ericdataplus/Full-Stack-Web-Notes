@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Twitter Clone/Timemark of Where I'm at on Tutorial.md",
+            "file": "SidebarMenu.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 176
+    "width": 298
   },
   "right": {
     "id": "e32144c3095088cb",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twitter Clone/Timemark of Where I'm at on Tutorial.md",
+                "file": "SidebarMenu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "fb375b343dca4953",
   "lastOpenFiles": [
-    "Twitter Clone/Timemark of Where I'm at on Tutorial.md",
-    "Twitter Clone/twitter clone project.md",
-    "bun.md",
-    "component.md",
-    "daisy ui.md",
+    "SidebarMenu.md",
     "destructing.md",
-    "heroicons.md",
+    "Sidebar.md",
+    "Screenshot 2022-07-09 165255.png",
+    "props.md",
     "next.js.md",
-    "vs code shortcuts.md",
-    "tailwind cheat sheets.md"
+    "heroicons.md",
+    "daisy ui.md",
+    "component.md",
+    "bun.md"
   ]
 }
