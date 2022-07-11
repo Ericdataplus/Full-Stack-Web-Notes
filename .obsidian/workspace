@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Twitter Clone/twitter clone project.md",
+            "file": "Twitter Clone/Timemark of Where I'm at on Tutorial.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twitter Clone/twitter clone project.md",
+                "file": "Twitter Clone/Timemark of Where I'm at on Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "fb375b343dca4953",
   "lastOpenFiles": [
+    "Twitter Clone/Timemark of Where I'm at on Tutorial.md",
     "Twitter Clone/twitter clone project.md",
     "bun.md",
     "component.md",
@@ -97,7 +98,6 @@
     "heroicons.md",
     "next.js.md",
     "vs code shortcuts.md",
-    "tailwind cheat sheets.md",
-    "tailwind.md"
+    "tailwind cheat sheets.md"
   ]
 }
