@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SidebarMenu.md",
+            "file": "next.js.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SidebarMenu.md",
+                "file": "next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,12 @@
   },
   "active": "fb375b343dca4953",
   "lastOpenFiles": [
+    "next.js.md",
     "SidebarMenu.md",
     "destructing.md",
     "Sidebar.md",
     "Screenshot 2022-07-09 165255.png",
     "props.md",
-    "next.js.md",
     "heroicons.md",
     "daisy ui.md",
     "component.md",
