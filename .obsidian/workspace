@@ -7,12 +7,8 @@
         "id": "fb375b343dca4953",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "component.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340
+    "width": 660.5
   },
   "right": {
     "id": "e32144c3095088cb",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "fb375b343dca4953",
   "lastOpenFiles": [
-    "bun.md",
-    "daisy ui.md",
+    "Twitter Clone/Sections of the Twitter Tutorial within notes/3. Create Feed Component and it's Header.md",
+    "Twitter Clone/Sections of the Twitter Tutorial within notes/2. Create Sidebar Component.md",
+    "Twitter Clone/Sections of the Twitter Tutorial within notes/1. Install Next.js and Tailwind.CSS.md",
+    "Twitter Clone/twitter clone project.md",
+    "Twitter Clone/original github to tutorial.md",
+    "props.md",
+    "vs code shortcuts.md",
+    "tailwind cheat sheets.md",
     "tailwind.md",
-    "Sidebar.md",
-    "next.js.md",
-    "heroicons.md",
-    "destructing.md",
-    "component.md",
-    "Attachments/Screenshot 2022-07-12 181107.png",
-    "Attachments/Screenshot 2022-07-09 165255.png"
+    "Sidebar.md"
   ]
 }
