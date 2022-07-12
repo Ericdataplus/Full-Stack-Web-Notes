@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Twitter Clone/original github to tutorial.md",
+            "file": "Twitter Clone/Sections of the Twitter Tutorial.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twitter Clone/original github to tutorial.md",
+                "file": "Twitter Clone/Sections of the Twitter Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "fb375b343dca4953",
   "lastOpenFiles": [
-    "Twitter Clone/original github to tutorial.md",
     "Twitter Clone/Sections of the Twitter Tutorial.md",
-    "Twitter Clone/twitter clone project.md",
+    "Twitter Clone/original github to tutorial.md",
     "props.md",
     "heroicons.md",
-    "destructing.md",
-    "daisy ui.md",
-    "component.md",
-    "bun.md",
-    "SidebarMenu.md"
+    "Sidebar.md",
+    "tailwind.md",
+    "tailwind cheat sheets.md",
+    "vs code shortcuts.md",
+    "![[Screenshot 2022-07-12 181107.png.md",
+    "Attachments/index.md"
   ]
 }
