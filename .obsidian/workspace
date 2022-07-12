@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 134.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "e32144c3095088cb",
@@ -89,15 +90,15 @@
   },
   "active": "fb375b343dca4953",
   "lastOpenFiles": [
+    "Attachments/Screenshot 2022-07-12 193726.png",
+    "Twitter Clone/Sections of the Twitter Tutorial within notes/3. Create Feed Component and it's Header.md",
+    "Attachments/Screenshot 2022-07-12 181107.png",
     "Twitter Clone/Sections of the Twitter Tutorial within notes/1. Install Next.js and Tailwind.CSS.md",
     "Twitter Clone/Sections of the Twitter Tutorial within notes/2. Create Sidebar Component.md",
-    "Twitter Clone/Sections of the Twitter Tutorial within notes/3. Create Feed Component and it's Header.md",
     "Sidebar.md",
     "SidebarMenu.md",
     "Twitter Clone/Sections of the Twitter Tutorial within notes/!Sections of the tutorial within the notes.md",
     "Twitter Clone/Sections of the Twitter Tutorial within notes/!Sections of the Twitter Tutorial video time marked.md",
-    "Twitter Clone/twitter clone project.md",
-    "Twitter Clone/original github to tutorial.md",
-    "props.md"
+    "Twitter Clone/twitter clone project.md"
   ]
 }
