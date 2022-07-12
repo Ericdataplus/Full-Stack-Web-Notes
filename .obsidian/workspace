@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sections of the Tutorial within notes/Deploy to Vercel and Fix the Errors.md",
+            "file": "tailwind.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379
+    "width": 340
   },
   "right": {
     "id": "e32144c3095088cb",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sections of the Tutorial within notes/Deploy to Vercel and Fix the Errors.md",
+                "file": "tailwind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "fb375b343dca4953",
   "lastOpenFiles": [
-    "Sections of the Tutorial within notes/Deploy to Vercel and Fix the Errors.md",
-    "Sections of the Tutorial within notes/Sections of the tutorial within the notes.md",
-    "Sections of the Tutorial within notes/Complete the Comment Component.md",
-    "Sections of the Tutorial within notes/Get the Comments from Firestore and Create the Comment Component.md",
-    "Sections of the Tutorial within notes/Create Post Page.md",
-    "Sections of the Tutorial within notes/Send Comments to Firestore, show the Number of Comments, and Redirect usinUseRouter.md",
-    "Sections of the Tutorial within notes/Install and Implement React-Modal.md",
-    "Sections of the Tutorial within notes/Install and Implement Recoil.md",
-    "Sections of the Tutorial within notes/Add Animation Effect using Framer Motion.md",
-    "Sections of the Tutorial within notes/Add Delete Functionality to the Post.md"
+    "tailwind.md",
+    "next.js.md",
+    "Sections of the Tutorial within notes/1. Install Next.js and Tailwind.CSS.md",
+    "Sections of the Tutorial within notes/!Sections of the tutorial within the notes.md",
+    "Sections of the Tutorial within notes/2. Create Sidebar Component.md",
+    "Sections of the Tutorial within notes/23. Deploy to Vercel and Fix the Errors.md",
+    "Sections of the Tutorial within notes/22. Complete the Comment Component.md",
+    "Sections of the Tutorial within notes/21. Get the Comments from Firestore and Create the Comment Component.md",
+    "Sections of the Tutorial within notes/20. Create Post Page.md",
+    "Sections of the Tutorial within notes/19. Send Comments to Firestore, show the Number of Comments, and Redirect usinUseRouter.md"
   ]
 }
