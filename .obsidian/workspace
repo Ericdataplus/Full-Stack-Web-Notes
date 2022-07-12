@@ -7,8 +7,12 @@
         "id": "fb375b343dca4953",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Twitter Clone/Sections of the Twitter Tutorial within notes/3. Create Feed Component and it's Header.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 660.5
+    "width": 134.5
   },
   "right": {
     "id": "e32144c3095088cb",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Twitter Clone/Sections of the Twitter Tutorial within notes/3. Create Feed Component and it's Header.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "fb375b343dca4953",
   "lastOpenFiles": [
-    "Twitter Clone/Sections of the Twitter Tutorial within notes/3. Create Feed Component and it's Header.md",
-    "Twitter Clone/Sections of the Twitter Tutorial within notes/2. Create Sidebar Component.md",
     "Twitter Clone/Sections of the Twitter Tutorial within notes/1. Install Next.js and Tailwind.CSS.md",
+    "Twitter Clone/Sections of the Twitter Tutorial within notes/2. Create Sidebar Component.md",
+    "Twitter Clone/Sections of the Twitter Tutorial within notes/3. Create Feed Component and it's Header.md",
+    "Sidebar.md",
+    "SidebarMenu.md",
+    "Twitter Clone/Sections of the Twitter Tutorial within notes/!Sections of the tutorial within the notes.md",
+    "Twitter Clone/Sections of the Twitter Tutorial within notes/!Sections of the Twitter Tutorial video time marked.md",
     "Twitter Clone/twitter clone project.md",
     "Twitter Clone/original github to tutorial.md",
-    "props.md",
-    "vs code shortcuts.md",
-    "tailwind cheat sheets.md",
-    "tailwind.md",
-    "Sidebar.md"
+    "props.md"
   ]
 }
