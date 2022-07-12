@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Twitter Clone/Sections of the Twitter Tutorial within notes/3. Create Feed Component and it's Header.md",
+            "file": "Twitter Clone/Sections of the Twitter Tutorial within notes/4. Add the Input Section of the Feed Component.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twitter Clone/Sections of the Twitter Tutorial within notes/3. Create Feed Component and it's Header.md",
+                "file": "Twitter Clone/Sections of the Twitter Tutorial within notes/4. Add the Input Section of the Feed Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "fb375b343dca4953",
   "lastOpenFiles": [
-    "Twitter Clone/original github to tutorial.md",
+    "Twitter Clone/Sections of the Twitter Tutorial within notes/!Sections of the Twitter Tutorial video time marked.md",
+    "Attachments/index.md",
+    "Twitter Clone/Sections of the Twitter Tutorial within notes/4. Add the Input Section of the Feed Component.md",
     "Twitter Clone/Sections of the Twitter Tutorial within notes/3. Create Feed Component and it's Header.md",
+    "Attachments/Screenshot 2022-07-12 195120.png",
+    "Twitter Clone/original github to tutorial.md",
     "Attachments/Screenshot 2022-07-12 193726.png",
     "Attachments/Screenshot 2022-07-12 181107.png",
     "Twitter Clone/Sections of the Twitter Tutorial within notes/1. Install Next.js and Tailwind.CSS.md",
-    "Twitter Clone/Sections of the Twitter Tutorial within notes/2. Create Sidebar Component.md",
-    "Sidebar.md",
-    "SidebarMenu.md",
-    "Twitter Clone/Sections of the Twitter Tutorial within notes/!Sections of the tutorial within the notes.md",
-    "Twitter Clone/Sections of the Twitter Tutorial within notes/!Sections of the Twitter Tutorial video time marked.md"
+    "Twitter Clone/Sections of the Twitter Tutorial within notes/2. Create Sidebar Component.md"
   ]
 }

@@ -1,7 +1,7 @@
 1. [Install Next.js and Tailwind.CSS](https://www.youtube.com/watch?v=PnvDPSg5bQM&t=307s)
 2. [Create Sidebar Component](https://www.youtube.com/watch?v=PnvDPSg5bQM&t=1475s)
 3. [Create Feed Component and it's Header](https://youtu.be/PnvDPSg5bQM?t=4623)
-4. [Add the Input Section of the Feed Component]()
+4. [Add the Input Section of the Feed Component](https://youtu.be/PnvDPSg5bQM?t=5697)
 5. [Add the Post Section of the Feed Component]()
 6. [Create the Widgets Component and the Search Bar]()
 7. [Create the News Section of the Widgets Component]()
