@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Twitter Clone/Sections of the Twitter Tutorial.md",
+            "file": "Sections of the Tutorial within notes/Deploy to Vercel and Fix the Errors.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 183
+    "width": 379
   },
   "right": {
     "id": "e32144c3095088cb",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twitter Clone/Sections of the Twitter Tutorial.md",
+                "file": "Sections of the Tutorial within notes/Deploy to Vercel and Fix the Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "fb375b343dca4953",
   "lastOpenFiles": [
-    "Twitter Clone/Sections of the Twitter Tutorial.md",
-    "Twitter Clone/original github to tutorial.md",
-    "props.md",
-    "heroicons.md",
-    "Sidebar.md",
-    "tailwind.md",
-    "tailwind cheat sheets.md",
-    "vs code shortcuts.md",
-    "![[Screenshot 2022-07-12 181107.png.md",
-    "Attachments/index.md"
+    "Sections of the Tutorial within notes/Deploy to Vercel and Fix the Errors.md",
+    "Sections of the Tutorial within notes/Sections of the tutorial within the notes.md",
+    "Sections of the Tutorial within notes/Complete the Comment Component.md",
+    "Sections of the Tutorial within notes/Get the Comments from Firestore and Create the Comment Component.md",
+    "Sections of the Tutorial within notes/Create Post Page.md",
+    "Sections of the Tutorial within notes/Send Comments to Firestore, show the Number of Comments, and Redirect usinUseRouter.md",
+    "Sections of the Tutorial within notes/Install and Implement React-Modal.md",
+    "Sections of the Tutorial within notes/Install and Implement Recoil.md",
+    "Sections of the Tutorial within notes/Add Animation Effect using Framer Motion.md",
+    "Sections of the Tutorial within notes/Add Delete Functionality to the Post.md"
   ]
 }

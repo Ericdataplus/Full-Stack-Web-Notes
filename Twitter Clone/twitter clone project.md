@@ -9,7 +9,7 @@ using [[tailwind]] and [[daisy ui]]
 
 In this project tutorial we start with twitters left [[Sidebar]] 
 
-[[Sections of the Twitter Tutorial]] 
+[[Sections of the Twitter Tutorial video time marked]] 
 
 
 
