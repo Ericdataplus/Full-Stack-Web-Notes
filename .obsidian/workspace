@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tailwind.md",
+            "file": "component.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tailwind.md",
+                "file": "component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "fb375b343dca4953",
   "lastOpenFiles": [
+    "bun.md",
+    "daisy ui.md",
     "tailwind.md",
+    "Sidebar.md",
     "next.js.md",
-    "Sections of the Tutorial within notes/1. Install Next.js and Tailwind.CSS.md",
-    "Sections of the Tutorial within notes/!Sections of the tutorial within the notes.md",
-    "Sections of the Tutorial within notes/2. Create Sidebar Component.md",
-    "Sections of the Tutorial within notes/23. Deploy to Vercel and Fix the Errors.md",
-    "Sections of the Tutorial within notes/22. Complete the Comment Component.md",
-    "Sections of the Tutorial within notes/21. Get the Comments from Firestore and Create the Comment Component.md",
-    "Sections of the Tutorial within notes/20. Create Post Page.md",
-    "Sections of the Tutorial within notes/19. Send Comments to Firestore, show the Number of Comments, and Redirect usinUseRouter.md"
+    "heroicons.md",
+    "destructing.md",
+    "component.md",
+    "Attachments/Screenshot 2022-07-12 181107.png",
+    "Attachments/Screenshot 2022-07-09 165255.png"
   ]
 }

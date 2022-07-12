@@ -5,5 +5,3 @@ getting a project started -
 or can use [[bun]] 
 
 - https://www.npmjs.com/package/bun-framework-next
-
-
