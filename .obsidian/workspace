@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "making an array to pass data.md",
+            "file": "using an open ai for the news.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "making an array to pass data.md",
+                "file": "using an open ai for the news.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "fb375b343dca4953",
   "lastOpenFiles": [
+    "making an array to pass data.md",
     "Twitter Clone/Sections of the Twitter Tutorial within notes/!Sections of the Twitter Tutorial video time marked.md",
     "Twitter Clone/Sections of the Twitter Tutorial within notes/!Sections of the tutorial within the notes.md",
     "Twitter Clone/twitter clone project.md",
@@ -97,7 +98,6 @@
     "Twitter Clone/Sections of the Twitter Tutorial within notes/3. Create Feed Component and it's Header.md",
     "Twitter Clone/Sections of the Twitter Tutorial within notes/1. Install Next.js and Tailwind.CSS.md",
     "Twitter Clone/Sections of the Twitter Tutorial within notes/2. Create Sidebar Component.md",
-    "Attachments/index.md",
-    "Attachments/Screenshot 2022-07-12 195120.png"
+    "Attachments/index.md"
   ]
 }
