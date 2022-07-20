@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "using an open ai for the news.md",
+            "file": "api.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "using an open ai for the news.md",
+                "file": "api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "fb375b343dca4953",
   "lastOpenFiles": [
+    "tailwind cheat sheets.md",
+    "api.md",
+    "react hooks.md",
     "making an array to pass data.md",
     "Twitter Clone/Sections of the Twitter Tutorial within notes/!Sections of the Twitter Tutorial video time marked.md",
     "Twitter Clone/Sections of the Twitter Tutorial within notes/!Sections of the tutorial within the notes.md",
     "Twitter Clone/twitter clone project.md",
     "Twitter Clone/original github to tutorial.md",
     "Twitter Clone/Sections of the Twitter Tutorial within notes/4. Add the Input Section of the Feed Component.md",
-    "Twitter Clone/Sections of the Twitter Tutorial within notes/3. Create Feed Component and it's Header.md",
-    "Twitter Clone/Sections of the Twitter Tutorial within notes/1. Install Next.js and Tailwind.CSS.md",
-    "Twitter Clone/Sections of the Twitter Tutorial within notes/2. Create Sidebar Component.md",
-    "Attachments/index.md"
+    "Twitter Clone/Sections of the Twitter Tutorial within notes/3. Create Feed Component and it's Header.md"
   ]
 }

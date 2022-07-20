@@ -3,5 +3,11 @@ we use this one for the twitter clone
 
 we will use next.js's serverSideRendering for this
 
+we also use a [[react hook]] here to show more news articles with every click 
+
+
+
+
+
 
 
